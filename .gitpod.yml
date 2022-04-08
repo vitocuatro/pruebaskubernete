@@ -4,3 +4,7 @@ tasks:
     command: |
       echo 'TODO: start app'
 image: quadeare/gitpod-kubectl:latest
+
+vscode:
+  extensions:
+    - ms-azuretools.vscode-docker
